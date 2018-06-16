@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">It\'s dangerous to go alone!</string>
+    <string name="loz">Legend of Zelda</string>
+    <string name="quiz">Master Quiz Edition</string>
+
+    <string name="Q1">Q1.</string>
+    <string name="question1Text">In The Legend of Zelda Ocarina of Time, what is the very first song you learn?</string>
+    <string name="question1AnswerA">Bolero of Fire</string>
+    <string name="question1AnswerB">Saria\'s Song</string>
+    <string name="question1AnswerC">Zelda\'s Lullaby</string>
+    <string name="question1AnswerD">Serenade of Water</string>
+
+    <string name="Q2">Q2.</string>
+    <string name="question2Text">Not all Legend of Zelda games feature Ganon as the main boss. Select the games below with a different main boss!</string>
+    <string name="question2AnswerA">The Minish Cap</string>
+    <string name="question2AnswerB">A Link to the Past</string>
+    <string name="question2AnswerC">Twilight Princess</string>
+    <string name="question2AnswerD">Links Awakening</string>
+    <string name="question2AnswerE">The Wind Waker</string>
+    <string name="question2AnswerF">Majora\'s Mask</string>
+
+    <string name="Q3">Q3.</string>
+    <string name="question3Text">Rupees are the currency of choice in Legend of Zelda.  How much are purple rupees worth?</string>
+    <string name="question3AnswerA">5</string>
+    <string name="question3AnswerB">20</string>
+    <string name="question3AnswerC">50</string>
+    <string name="question3AnswerD">100</string>
+
+    <string name="Q4">Q4.</string>
+    <string name="question4Text">As the Hero of Time, Link bears which Triforce symbol on his left hand?</string>
+    <string name="question4AnswerA">Power</string>
+    <string name="question4AnswerB">Courage</string>
+    <string name="question4AnswerC">Wisdom</string>
+    <string name="question4AnswerD">Spirit</string>
+
+    <string name="Q5">Q5.</string>
+    <string name="question5Text">In the original Legend of Zelda, Princess Zelda split the Triforce into how many pieces to keep it from Ganon\'s clutches?</string>
+    <string name="question5AnswerA">3</string>
+    <string name="question5AnswerB">4</string>
+    <string name="question5AnswerC">7</string>
+    <string name="question5AnswerD">8</string>
+
+    <string name="Q6">Q6.</string>
+    <string name="question6Text">The Zelda series has a wide array of unique monsters, however, what monster has appeared in every game in the series?</string>
+    <string name="question6AnswerA">Octoroks</string>
+    <string name="question6AnswerB">Moblins</string>
+    <string name="question6AnswerC">Stalfos</string>
+    <string name="question6AnswerD">Leevers</string>
+
+    <string name="Q7">Q7.</string>
+    <string name="question7Text">The delightful chicken-looking birds inhabiting Hyrule are known as?</string>
+    <string name="question7AnswerA"></string>
+    <string name="question7AnswerB"></string>
+    <string name="question7AnswerC"></string>
+    <string name="question7AnswerD"></string>
+
+    <string name="submitButton">Take this!</string>
+
+</resources>
