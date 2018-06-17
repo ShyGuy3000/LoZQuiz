@@ -60,22 +60,22 @@
                     android:layout_height="wrap_content">
 
                     <RadioButton
-                        android:id="@+id/question1_AnswerA"
+                        android:id="@+id/question1_AnswerA_rb"
                         style="@style/answerLine"
                         android:text="@string/question1AnswerA" />
 
                     <RadioButton
-                        android:id="@+id/question1_AnswerB"
+                        android:id="@+id/question1_AnswerB_rb"
                         style="@style/answerLine"
                         android:text="@string/question1AnswerB" />
 
                     <RadioButton
-                        android:id="@+id/question1_AnswerC"
+                        android:id="@+id/question1_AnswerC_rb"
                         style="@style/answerLine"
                         android:text="@string/question1AnswerC" />
 
                     <RadioButton
-                        android:id="@+id/question1_AnswerD"
+                        android:id="@+id/question1_AnswerD_rb"
                         style="@style/answerLine"
                         android:text="@string/question1AnswerD" />
                 </RadioGroup>
@@ -102,32 +102,32 @@
                     android:text="@string/question2Text" />
 
                 <CheckBox
-                    android:id="@+id/question2_AnswerA"
+                    android:id="@+id/question2_AnswerA_cb"
                     style="@style/answerLine"
                     android:text="@string/question2AnswerA" />
 
                 <CheckBox
-                    android:id="@+id/question2_AnswerB"
+                    android:id="@+id/question2_AnswerB_cb"
                     style="@style/answerLine"
                     android:text="@string/question2AnswerB" />
 
                 <CheckBox
-                    android:id="@+id/question2_AnswerC"
+                    android:id="@+id/question2_AnswerC_cb"
                     style="@style/answerLine"
                     android:text="@string/question2AnswerC" />
 
                 <CheckBox
-                    android:id="@+id/question2_AnswerD"
+                    android:id="@+id/question2_AnswerD_cb"
                     style="@style/answerLine"
                     android:text="@string/question2AnswerD" />
 
                 <CheckBox
-                    android:id="@+id/question2_AnswerE"
+                    android:id="@+id/question2_AnswerE_cb"
                     style="@style/answerLine"
                     android:text="@string/question2AnswerE" />
 
                 <CheckBox
-                    android:id="@+id/question2_AnswerF"
+                    android:id="@+id/question2_AnswerF_cb"
                     style="@style/answerLine"
                     android:text="@string/question2AnswerF" />
 
@@ -157,22 +157,22 @@
                     android:layout_height="wrap_content">
 
                     <RadioButton
-                        android:id="@+id/question3_AnswerA"
+                        android:id="@+id/question3_AnswerA_rb"
                         style="@style/answerLine"
                         android:text="@string/question3AnswerA" />
 
                     <RadioButton
-                        android:id="@+id/question3_AnswerB"
+                        android:id="@+id/question3_AnswerB_rb"
                         style="@style/answerLine"
                         android:text="@string/question3AnswerB" />
 
                     <RadioButton
-                        android:id="@+id/question3_AnswerC"
+                        android:id="@+id/question3_AnswerC_rb"
                         style="@style/answerLine"
                         android:text="@string/question3AnswerC" />
 
                     <RadioButton
-                        android:id="@+id/question3_AnswerD"
+                        android:id="@+id/question3_AnswerD_rb"
                         style="@style/answerLine"
                         android:text="@string/question3AnswerD" />
                 </RadioGroup>
@@ -203,22 +203,22 @@
                     android:layout_height="wrap_content">
 
                     <RadioButton
-                        android:id="@+id/question4_AnswerA"
+                        android:id="@+id/question4_AnswerA_rb"
                         style="@style/answerLine"
                         android:text="@string/question4AnswerA" />
 
                     <RadioButton
-                        android:id="@+id/question4_AnswerB"
+                        android:id="@+id/question4_AnswerB_rb"
                         style="@style/answerLine"
                         android:text="@string/question4AnswerB" />
 
                     <RadioButton
-                        android:id="@+id/question4_AnswerC"
+                        android:id="@+id/question4_AnswerC_rb"
                         style="@style/answerLine"
                         android:text="@string/question4AnswerC" />
 
                     <RadioButton
-                        android:id="@+id/question4_AnswerD"
+                        android:id="@+id/question4_AnswerD_rb"
                         style="@style/answerLine"
                         android:text="@string/question4AnswerD" />
                 </RadioGroup>
@@ -249,22 +249,22 @@
                     android:layout_height="wrap_content">
 
                     <RadioButton
-                        android:id="@+id/question5_AnswerA"
+                        android:id="@+id/question5_AnswerA_rb"
                         style="@style/answerLine"
                         android:text="@string/question5AnswerA" />
 
                     <RadioButton
-                        android:id="@+id/question5_AnswerB"
+                        android:id="@+id/question5_AnswerB_rb"
                         style="@style/answerLine"
                         android:text="@string/question5AnswerB" />
 
                     <RadioButton
-                        android:id="@+id/question5_AnswerC"
+                        android:id="@+id/question5_AnswerC_rb"
                         style="@style/answerLine"
                         android:text="@string/question5AnswerC" />
 
                     <RadioButton
-                        android:id="@+id/question5_AnswerD"
+                        android:id="@+id/question5_AnswerD_rb"
                         style="@style/answerLine"
                         android:text="@string/question5AnswerD" />
                 </RadioGroup>
@@ -295,22 +295,22 @@
                     android:layout_height="wrap_content">
 
                     <RadioButton
-                        android:id="@+id/question6_AnswerA"
+                        android:id="@+id/question6_AnswerA_rb"
                         style="@style/answerLine"
                         android:text="@string/question6AnswerA" />
 
                     <RadioButton
-                        android:id="@+id/question6_AnswerB"
+                        android:id="@+id/question6_AnswerB_rb"
                         style="@style/answerLine"
                         android:text="@string/question6AnswerB" />
 
                     <RadioButton
-                        android:id="@+id/question6_AnswerC"
+                        android:id="@+id/question6_AnswerC_rb"
                         style="@style/answerLine"
                         android:text="@string/question6AnswerC" />
 
                     <RadioButton
-                        android:id="@+id/question6_AnswerD"
+                        android:id="@+id/question6_AnswerD_rb"
                         style="@style/answerLine"
                         android:text="@string/question6AnswerD" />
                 </RadioGroup>
@@ -337,7 +337,7 @@
                     android:text="@string/question7Text" />
 
                 <EditText
-                    android:id="@+id/question7_AnswerA"
+                    android:id="@+id/question7_AnswerA_et"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
             </LinearLayout>
